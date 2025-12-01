@@ -24,6 +24,7 @@ public class learn_Array {
     }
      */
 
+
     public static void update(int marks[], int nonChangable){
         nonChangable = 10;
         for (int i=0; i<marks.length; i++){
@@ -43,4 +44,6 @@ public class learn_Array {
         }
         System.out.println();
     }
+
+
 }
